@@ -1,4 +1,4 @@
-.btn {
+.btn-middle {
   margin: 5%  3% ;
 }
 
@@ -27,7 +27,46 @@ body{
   line-height: 1.3;
 }
 
+.logo{
+  width: 10%;
+  margin-right: 15px;
+}
+
+.monthly-fee{
+  font-size: 35px;
+}
+
+.card-body{
+  text-align: center;
+}
+
 .feature-icon{
   color: #ef8172;
   margin: 10px;
+}
+
+#testimonials{
+  background-color: #FF337D;
+  text-align: center;
+  padding: 8% 15% 7%;
+}
+
+#press{
+  background-color: #FF337D;
+  padding: 20px;
+}
+
+.logo{
+  width: 20%;
+  margin: 30px 30px 20px;
+}
+
+.testimonial-pic{
+  border-radius: 80%;
+}
+
+.testimonial-text {
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #fff;
 }
